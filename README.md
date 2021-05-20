@@ -1,20 +1,20 @@
 # Fulfillment (as an assignment for EE369)
-使用的框架：pytorch
-Q1:
-Training accuracy: 97.20%
-Testing accuracy: 88.50%
-Q2:
-Training accuracy: 81.53%
-Testing accuracy: 81.90%
-Q3:
-Training accuracy: 97.58%
-Testing accuracy: 86.60%
-Q4:
-Training accuracy: 93.15%
-Testing accuracy: 89.40%
-Q5:
-Training accuracy: 99.30%
-Testing accuracy: 98.65%
+使用的框架：pytorch<br>
+Q1:<br>
+Training accuracy: 97.20%<br>
+Testing accuracy: 88.50%<br>
+Q2:<br>
+Training accuracy: 81.53%<br>
+Testing accuracy: 81.90%<br>
+Q3:<br>
+Training accuracy: 97.58%<br>
+Testing accuracy: 86.60%<br>
+Q4:<br>
+Training accuracy: 93.15%<br>
+Testing accuracy: 89.40%<br>
+Q5:<br>
+Training accuracy: 99.30%<br>
+Testing accuracy: 98.65%<br>
 
 # mnist_tutorial
 A tutorial for MNIST handwritten digit classification using sklearn, PyTorch and Keras.
